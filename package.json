@@ -1,0 +1,15 @@
+{
+    "name": "artificial-intelligence-for-personal-transformation-how-ai-can-help-you-improve-your-life",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
