@@ -1,5 +1,4 @@
-Chapter 6: Implementing AI for More Effective Mental Health Management
-======================================================================
+
 
 Overview of AI Applications for Mental Health Management
 --------------------------------------------------------
