@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore best practices for implementing artificial intelligence (AI) in coaching and feedback to facilitate personal transformation and improve our lives. Specifically, we will focus on how AI can be used for goal tracking, habit formation, and self-reflection, and provide guidelines for responsible and ethical AI use.
 
 Goal tracking

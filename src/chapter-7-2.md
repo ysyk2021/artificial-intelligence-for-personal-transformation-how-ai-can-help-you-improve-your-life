@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how artificial intelligence (AI) can be used to facilitate mental health management. Specifically, we will explore best practices for AI implementation in areas such as emotion recognition, mood tracking, and stress management, and provide guidelines for responsible and ethical AI use.
 
 Emotion recognition

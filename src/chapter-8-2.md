@@ -1,5 +1,4 @@
 
-
 Overview of Measuring AI Impact on Personal Transformation
 ----------------------------------------------------------
 

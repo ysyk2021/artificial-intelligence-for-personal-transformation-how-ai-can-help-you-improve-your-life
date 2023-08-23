@@ -1,5 +1,4 @@
 
-
 Overview of AI Applications for Mental Health Management
 --------------------------------------------------------
 

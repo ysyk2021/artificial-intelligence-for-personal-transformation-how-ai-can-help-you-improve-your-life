@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the implementation of AI for more effective mental health management. Specifically, we will examine several case studies of successful AI implementations in mental health management.
 
 Case study 1: Woebot

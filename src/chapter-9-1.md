@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the ethical considerations that should be taken into account when implementing AI for personal transformation. Specifically, we will explore fairness, privacy, informed consent, and transparency.
 
 Fairness
