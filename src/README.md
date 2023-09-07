@@ -8,3 +8,7 @@ By using AI algorithms to analyze data about ourselves, we can gain insights int
 Whether you are looking to optimize your physical fitness, increase your productivity, or improve your mental health, this book will provide valuable insights into how AI can help you achieve your personal transformation goals. We hope that it will serve as a useful guide on your journey towards a healthier, happier, and more fulfilling life.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
