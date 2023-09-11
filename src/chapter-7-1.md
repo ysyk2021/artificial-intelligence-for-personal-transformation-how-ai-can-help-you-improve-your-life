@@ -1,5 +1,4 @@
-Chapter 9: Overview of AI Applications for Mental Health Management
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has emerged as a powerful tool in the field of mental health management. With its ability to analyze vast amounts of data and detect patterns, AI offers numerous applications that can revolutionize how we approach mental well-being. In this chapter, we provide an overview of AI applications for mental health management.
 

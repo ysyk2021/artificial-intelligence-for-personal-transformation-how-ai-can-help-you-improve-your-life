@@ -1,5 +1,4 @@
-Chapter 11: Case Studies of Successful AI Implementations in Mental Health Management
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we present case studies that highlight successful implementations of Artificial Intelligence (AI) in mental health management. These real-world examples demonstrate the diverse applications of AI and how they have improved access, diagnosis, treatment, and support for individuals seeking mental well-being.
 

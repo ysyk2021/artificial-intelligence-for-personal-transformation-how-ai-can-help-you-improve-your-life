@@ -1,5 +1,4 @@
-Chapter 2: Definition of AI
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a branch of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human intelligence. It involves the development of algorithms and models that enable machines to mimic cognitive functions such as learning, reasoning, problem-solving, perception, and understanding natural language.
 
